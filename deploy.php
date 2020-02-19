@@ -60,6 +60,7 @@ if ($deploySecret !== NULL) {
 flush();
 // Actually run the update
 $commands = array(
+	'cd /home/ubuntu/dxe-tech-docs',
 	'echo $PWD',
 	'whoami',
 	'git pull',
