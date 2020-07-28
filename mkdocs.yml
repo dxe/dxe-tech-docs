@@ -1,5 +1,7 @@
 site_name: DxE Tech Docs
 nav:
     - Home: index.md
-    - About: about.md
+    - G Suite: gsuite.md
+    - Okta: okta.md
+    - Dropbox: dropbox.md
 theme: readthedocs
