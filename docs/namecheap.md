@@ -1,0 +1,1 @@
+All of DxE's domains are registered via a single Namecheap account. DNS is managed in Namecheap for all domains except for directactioneverywhere.com, compassionatebay.org, and friendsofdxe.com.

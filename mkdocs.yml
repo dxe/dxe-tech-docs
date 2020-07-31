@@ -1,7 +1,19 @@
 site_name: DxE Tech Docs
 nav:
-    - Home: index.md
-    - G Suite: gsuite.md
-    - Okta: okta.md
+    - Accountability App: accountability.md
+    - ADB: adb.md
+    - Analytics: analytics.md
+    - ALC App: alc_app.md
+    - AWS: aws.md
+    - Data Reporting & Processing: data.md
     - Dropbox: dropbox.md
+    - G Suite: gsuite.md
+    - Google Apps Script: gas.md
+    - Okta: okta.md
+    - Sendy: sendy.md
+    - Short links: shortlinks.md
+    - Spoke: spoke.md
+    - Media Management: media.md
+    - Namecheap: namecheap.md
+    - Public Websites: websites.md
 theme: readthedocs
